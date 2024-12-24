@@ -1,0 +1,14 @@
+Temperature_Anomaly
+Sea_Surface_Temperature
+Ocean_Acidity
+Sea_Level_Rise
+Salinity
+Dissolved_Oxygen
+Species_Diversity
+Aquaculture_Production
+Climate_Zone_Temperate
+Climate_Zone_Tropical
+Region_Atlantic
+Region_Indian
+Region_Pacific
+Region_Southern
